@@ -48,8 +48,8 @@
 </p>
 
 
-## ***- Alumno 5***
-*Hola soy Nathalia Giselle Moreno Abad,soy estudiante de la carrera de Ing. Biomedica*
+## ***- Giselle Moreno Abad***
+*Hola soy Nathalia Giselle Moreno Abad,tengo 18 años y soy estudiante de la carrera de Ing. Biomedica*
 
 ## ***- Hobbies*** 
 *Hacer crochet, bailar y ver series*
