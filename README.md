@@ -38,8 +38,8 @@
 <img src="https://github.com/user-attachments/assets/18eef0fd-c890-4ebb-8097-ce1c672df235" width="300">
 </p>
 
-## ***- Alumno 4***
-*Hola soy Maria Emilia Ore Estrada, soy estudiante de la carrera de Ing. Biomedica*
+## ***- Maria Emilia Ore Estrada***
+*Edad: 19 años*
 
 ## ***- Hobbies*** 
 *Jugar voley, leer, aprender nuevos idiomas, molestar a mi mascota y viajar*
