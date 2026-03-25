@@ -13,7 +13,7 @@
 
 
 ## ***- Terry Bryan Mayhua Martinez***
-*Soy Terry Mayhua, tengo 23 años y me gusta mucho componer y hacer muchas actividades con amigos.*
+*Soy un estudiando de ing. biomédica de 23 años.*
 ## ***- Hobbies*** 
 *Compooner, escribir , hacer deporte y ir a conocer nuevos lugares*
 
