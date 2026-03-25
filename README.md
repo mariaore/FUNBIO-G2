@@ -49,7 +49,7 @@
 
 
 ## ***- Giselle Moreno Abad***
-*Hola soy Nathalia Giselle Moreno Abad,tengo 18 años y soy estudiante de la carrera de Ing. Biomedica*
+*Hola soy Nathalia Giselle Moreno Abad,tengo 18 años*
 
 ## ***- Hobbies*** 
 *Hacer crochet, bailar y ver series*
