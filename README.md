@@ -1,7 +1,7 @@
 # FUNBIO-G2
-<h1 align="center">PRESENTACIÓN GRUPO 2</h1>
+<h1 align="center">FUNDAMENTOS DE BIODISEÑO</h1>
 
-<h2>GRUPO INSERVIBLES</h2> 
+<h2>GRUPO 2</h2> 
 
 <p> Grupo de estudiantes con un futuro dudoso que quieren ser unos ingenieros fantasticas, gracias a su profesor encargado del cursp y que gracias a su entusiamo podran logras objetivos nunca antes visto. Por ello este gupo de alumnos son los siguientes promesas del futuro. </p>
 
@@ -39,10 +39,10 @@
 
 
 ## ***- Alumno 4***
-*Hola soy Fabio Fernando Congachi Vilca, soy estudiante de la carrera de Ing. Biomedica*
+*Hola soy Maria Emilia Ore Estrada, soy estudiante de la carrera de Ing. Biomedica*
 
 ## ***- Hobbies*** 
-*Jugar fuchibol, dibujar, aprender nuevos idiomas, videojuegos, viajar*
+*Jugar voley, leer, aprender nuevos idiomas, molestar a mi mascota y viajar*
 
 ![WhatsApp Image 2025-04-05 at 11 02 20 PM](https://github.com/user-attachments/assets/1a3d13c2-f026-4cdc-b040-a3b153458d1c)
 ![WhatsApp Image 2025-04-05 at 11 05 58 PM](https://github.com/user-attachments/assets/02458038-647c-4ff6-a6fc-b427efd057ac)
