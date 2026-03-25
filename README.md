@@ -32,7 +32,7 @@
 *Hola soy Maria Estefany Hurtado Blas, tengo 19 años y soy estudiante de la carrera de Ingeniería Biomédica*
 
 ## ***- Hobbies*** 
-*En mis tiempos libres me gusta jugar videojuegos, escuchar música, ver series y hacer deporte*
+*En mis tiempos libres me gusta jugar voley, ver videos recreativos, escuchar música y ver peliculas*
 
 ![484488142_3433423600124618_2786372764471491891_n](https://github.com/user-attachments/assets/105a3a2f-f855-45e2-b225-adfd0cb6af98)
 ![482353880_3444223165711328_806106927579812926_n](https://github.com/user-attachments/assets/537c9a55-c13c-498c-ba4e-4f97e1d193f1)
