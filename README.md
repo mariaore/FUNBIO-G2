@@ -8,7 +8,8 @@
 
 <p> Grupo de estudiantes que quieren ser unos ingenieros fantasticas, gracias a su profesor encargado del curso y que gracias a su entusiamo podran lograr objetivos nunca antes visto. Por ello, este gupo de alumnos son los siguientes promesas del futuro. </p>
 
-//FOTO GRUPAL//
+![a0407c92-66d4-4263-a918-31f521e98950](https://github.com/user-attachments/assets/1862cdb2-96ee-4d42-9154-3b0f2c2719e6)
+
 
 
 ## ***- Alumno 1***
