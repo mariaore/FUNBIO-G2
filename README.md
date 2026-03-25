@@ -46,7 +46,7 @@
 ## ***- Hobbies*** 
 *Jugar voley, leer, aprender nuevos idiomas, molestar a mi mascota y viajar*
 
-<img src=file:///C:/Users/USER/Downloads/WhatsApp%20Image%202026-03-25%20at%203.17.52%20PM.jpeg" width="300">
+<img src="file:///C:/Users/USER/Downloads/WhatsApp%20Image%202026-03-25%20at%203.17.52%20PM.jpeg" width="300">
 
 
 
