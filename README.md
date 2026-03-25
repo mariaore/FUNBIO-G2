@@ -58,7 +58,7 @@
 </p>
 
 ## ***- Josue Mateo Hidalgo Carrillo***
-*Rengo 19 años y soy estudiante de la carrera de Ing. Biomedica*
+*Tengo 19 años y soy estudiante de la carrera de Ing. Biomedica*
 
 ## ***- Hobbies*** 
 *Escuchar rock en español e ingles o musica clasica, leer comics y ver series en general*
