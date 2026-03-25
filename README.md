@@ -44,7 +44,7 @@
 ## ***- Hobbies*** 
 *Jugar voley, leer, aprender nuevos idiomas, molestar a mi mascota y viajar*
 
-<img src="https://i.imgur.com/8Km9tLL.jpg" width="300">
+<img src="blob:https://web.whatsapp.com/41f53dd2-aa4f-42d9-a724-21934bb83d14" width="300">
 
 
 
