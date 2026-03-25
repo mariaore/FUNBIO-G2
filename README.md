@@ -1,0 +1,66 @@
+# FUNBIO-G2
+<h1 align="center">FUNDAMENTOS DE BIODISEÑO</h1>
+
+<img src="https://github.com/user-attachments/assets/0ba6b00e-e001-44a3-9d33-28d179d56d0e" width="1200">
+</p>
+
+<h2>GRUPO 2</h2> 
+
+<p> Grupo de estudiantes con un futuro dudoso que quieren ser unos ingenieros fantasticas, gracias a su profesor encargado del cursp y que gracias a su entusiamo podran logras objetivos nunca antes visto. Por ello este gupo de alumnos son los siguientes promesas del futuro. </p>
+
+//FOTO GRUPAL//
+
+
+## ***- Alumno 1***
+*Hola soy Terry Bryam Mayhua Martinez, soy estudiando de la carrera de Ing. Biomedica*
+## ***- Hobbies*** 
+*Compooner, escribir , hacer deporte y ir a conocer nuevos lugares*
+
+<img src="https://github.com/user-attachments/assets/2f4428fb-1773-4388-b9c1-b1a427ca1351" width="300">
+</p>
+
+## ***- Alumno 2***
+*Hola soy Luis Whiston García Montoyas,tengo 21 años y soy estudiante de la carrera de Ing. Biomedica*
+
+## ***- Hobbies*** 
+*Me gusta jugar voley, nadar, tocar piano y viajar*
+
+<img src="https://github.com/user-attachments/assets/c79ca26d-9e93-4499-a0da-c9742cfea100" width="300">
+</p>
+
+## ***- Alumno 3***
+*Hola soy Maria Estefany Hurtado Blas, tengo 19 años y soy estudiante de la carrera de Ingeniería Biomédica*
+
+## ***- Hobbies*** 
+*En mis tiempos libres me gusta jugar voley, ver videos recreativos, escuchar música y ver peliculas*
+
+<img src="https://github.com/user-attachments/assets/18eef0fd-c890-4ebb-8097-ce1c672df235" width="300">
+</p>
+
+## ***- Alumno 4***
+*Hola soy Maria Emilia Ore Estrada, soy estudiante de la carrera de Ing. Biomedica*
+
+## ***- Hobbies*** 
+*Jugar voley, leer, aprender nuevos idiomas, molestar a mi mascota y viajar*
+
+<img src="https://github.com/user-attachments/assets/9ab32c9a-207f-4c5d-ae7d-b5524ca7b17d" width="300">
+</p>
+
+
+## ***- Alumno 5***
+*Hola soy Nathalia Giselle Moreno Abad,soy estudiante de la carrera de Ing. Biomedica*
+
+## ***- Hobbies*** 
+*Hacer crochet, bailar y ver series*
+
+<img src="https://github.com/user-attachments/assets/2bb1d387-ccd6-4785-a8cf-d08f97216bc6" width="300">
+</p>
+
+## ***- Alumno 6***
+*Hola soy Josue Mateo Hidalgo Carillo, soy estudiante de la carrera de Ing. Biomedica*
+
+## ***- Hobbies*** 
+*Escuchar rock en español e ingles, leer comics y ver series de DC*
+
+<img src="https://github.com/user-attachments/assets/1e3c84fc-110a-4aea-8124-c934252bf338" width="300">
+</p>
