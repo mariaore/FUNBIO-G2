@@ -29,8 +29,8 @@
 <img src="https://github.com/user-attachments/assets/c79ca26d-9e93-4499-a0da-c9742cfea100" width="300">
 </p>
 
-## ***- Alumno 3***
-*Hola soy Maria Estefany Hurtado Blas, tengo 19 años y soy estudiante de la carrera de Ingeniería Biomédica*
+## ***- Maria Estefany Hurtado Blas***
+*Edad: 19 años. *
 
 ## ***- Hobbies*** 
 *En mis tiempos libres me gusta jugar voley, ver videos recreativos, escuchar música y ver peliculas*
