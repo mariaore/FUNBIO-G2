@@ -9,7 +9,7 @@
 
 
 
-## ***- Alumno Inservible 1***
+## ***- Alumno 1***
 *Hola soy Terry Bryam Mayhua Martinez, soy estudiando de la carrera de Ing. Biomedica*
 
 ## ***- Hobbies*** 
