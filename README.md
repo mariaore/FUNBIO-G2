@@ -41,6 +41,8 @@
 ## ***- Alumno 4***
 *Hola soy Maria Emilia Ore Estrada, soy estudiante de la carrera de Ing. Biomedica*
 
+<img src="https://prnt.sc/nJXNlhttps://prnt.sc/xRIlzQQc4iNHIyyaB" width="300">
+
 ## ***- Hobbies*** 
 *Jugar voley, leer, aprender nuevos idiomas, molestar a mi mascota y viajar*
 
