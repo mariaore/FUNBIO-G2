@@ -30,7 +30,7 @@
 </p>
 
 ## ***- Maria Estefany Hurtado Blas***
-*Edad: 19 años. *
+*Edad: 19 años.*
 
 ## ***- Hobbies*** 
 *En mis tiempos libres me gusta jugar voley, ver videos recreativos, escuchar música y ver peliculas*
