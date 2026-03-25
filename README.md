@@ -44,10 +44,7 @@
 ## ***- Hobbies*** 
 *Jugar voley, leer, aprender nuevos idiomas, molestar a mi mascota y viajar*
 
-![WhatsApp Image 2025-04-05 at 11 02 20 PM](https://github.com/user-attachments/assets/1a3d13c2-f026-4cdc-b040-a3b153458d1c)
-![WhatsApp Image 2025-04-05 at 11 05 58 PM](https://github.com/user-attachments/assets/02458038-647c-4ff6-a6fc-b427efd057ac)
-![WhatsApp Image 2025-04-05 at 11 01 51 PM](https://github.com/user-attachments/assets/e85557d6-d2b5-47a4-9169-a645b671b43f)
-
+<img src="https://i.imgur.com/8Km9tLL.jpg" width="300">
 
 
 
