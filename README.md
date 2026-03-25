@@ -12,8 +12,8 @@
 
 
 
-## ***- Alumno 1***
-*Hola soy Terry Bryam Mayhua Martinez, soy estudiando de la carrera de Ing. Biomedica*
+## ***- Terry Bryan Mayhua Martinez***
+*Soy Terry Mayhua, tengo 23 años y me gusta mucho componer y hacer muchas actividades con amigos.*
 ## ***- Hobbies*** 
 *Compooner, escribir , hacer deporte y ir a conocer nuevos lugares*
 
