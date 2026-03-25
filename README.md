@@ -20,7 +20,7 @@
 <img src="https://github.com/user-attachments/assets/2f4428fb-1773-4388-b9c1-b1a427ca1351" width="300">
 </p>
 
-## ***- Alumno 2***
+## ***- Luis Whiston García Montoya***
 *Hola soy Luis Whiston García Montoyas,tengo 21 años y soy estudiante de la carrera de Ing. Biomedica*
 
 ## ***- Hobbies*** 
