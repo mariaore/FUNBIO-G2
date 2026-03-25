@@ -1,5 +1,5 @@
 # FUNBIO-G2
-<h1 align="center">PRESENTACIÓN GRUPO INSERVIBLES</h1>
+<h1 align="center">PRESENTACIÓN GRUPO 2</h1>
 
 <h2>GRUPO INSERVIBLES</h2> 
 
