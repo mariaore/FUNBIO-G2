@@ -52,10 +52,10 @@
 
 
 ## ***- Alumno 5***
-*Hola soy Javier Denis Bernal Garayar, soy estudiante de la carrera de Ing. Biomedica*
+*Hola soy Nathalia Giselle Moreno Abad,soy estudiante de la carrera de Ing. Biomedica*
 
 ## ***- Hobbies*** 
-*Tocar guitarra, componer y hacer deportes*
+*Hacer crochet, bailar y ver series*
 
 ![Imagen de WhatsApp 2025-04-05 a las 23 42 00_6d7e5116](https://github.com/user-attachments/assets/7036ff5e-36f1-4b75-bc98-fe249eddebef)
 
