@@ -41,12 +41,13 @@
 ## ***- Alumno 4***
 *Hola soy Maria Emilia Ore Estrada, soy estudiante de la carrera de Ing. Biomedica*
 
-<img src="E" width="300">
+<img src="" width="300">
 
 ## ***- Hobbies*** 
 *Jugar voley, leer, aprender nuevos idiomas, molestar a mi mascota y viajar*
 
-<img src="file:///C:/Users/USER/Downloads/WhatsApp%20Image%202026-03-25%20at%203.17.52%20PM.jpeg" width="300">
+![WhatsApp Image 2026-03-25 at 3 17 52 PM](https://github.com/user-attachments/assets/9ab32c9a-207f-4c5d-ae7d-b5524ca7b17d)
+
 
 
 
