@@ -57,11 +57,11 @@
 <img src="https://github.com/user-attachments/assets/2bb1d387-ccd6-4785-a8cf-d08f97216bc6" width="300">
 </p>
 
-## ***- Alumno 6***
-*Hola soy Josue Mateo Hidalgo Carillo, soy estudiante de la carrera de Ing. Biomedica*
+## ***- Josue Mateo Hidalgo Carrillo***
+*Rengo 19 años y soy estudiante de la carrera de Ing. Biomedica*
 
 ## ***- Hobbies*** 
-*Escuchar rock en español e ingles, leer comics y ver series de DC*
+*Escuchar rock en español e ingles o musica clasica, leer comics y ver series en general*
 
 <img src="https://github.com/user-attachments/assets/1e3c84fc-110a-4aea-8124-c934252bf338" width="300">
 </p>
