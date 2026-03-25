@@ -29,7 +29,7 @@
 
 
 ## ***- Alumno 3***
-*Hola soy Edwin José Guillermo Fajardo Peña, tengo 18 años y soy estudiante de la carrera de Ingeniería Biomédica*
+*Hola soy Maria Estefany Hurtado Blas, tengo 19 años y soy estudiante de la carrera de Ingeniería Biomédica*
 
 ## ***- Hobbies*** 
 *En mis tiempos libres me gusta jugar videojuegos, escuchar música, ver series y hacer deporte*
