@@ -18,7 +18,7 @@
 ![Imagen de WhatsApp 2025-04-05 a las 23 22 39_5c9d7546](https://github.com/user-attachments/assets/94b02719-cf0d-438e-80a5-bd17aef5a56d)
 ![Imagen de WhatsApp 2025-04-05 a las 20 30 43_97107a6b](https://github.com/user-attachments/assets/2f4428fb-1773-4388-b9c1-b1a427ca1351)
 
-## ***- Alumno Inservible 2***
+## ***- Alumno 2***
 *Hola soy Diego Joel Custodio Gonzales,tengo 19 años y soy estudiando de la carrera de Ing. Biomedica*
 
 ## ***- Hobbies*** 
@@ -28,7 +28,7 @@
 
 
 
-## ***- Alumno Inservible 3***
+## ***- Alumno 3***
 *Hola soy Edwin José Guillermo Fajardo Peña, tengo 18 años y soy estudiante de la carrera de Ingeniería Biomédica*
 
 ## ***- Hobbies*** 
@@ -38,7 +38,7 @@
 ![482353880_3444223165711328_806106927579812926_n](https://github.com/user-attachments/assets/537c9a55-c13c-498c-ba4e-4f97e1d193f1)
 
 
-## ***- Alumno Inservible 4***
+## ***- Alumno 4***
 *Hola soy Fabio Fernando Congachi Vilca, soy estudiante de la carrera de Ing. Biomedica*
 
 ## ***- Hobbies*** 
@@ -51,7 +51,7 @@
 
 
 
-## ***- Alumno Inservible 5***
+## ***- Alumno 5***
 *Hola soy Javier Denis Bernal Garayar, soy estudiante de la carrera de Ing. Biomedica*
 
 ## ***- Hobbies*** 
