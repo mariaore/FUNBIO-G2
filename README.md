@@ -6,7 +6,7 @@
 
 <h2>GRUPO 2</h2> 
 
-<p> Grupo de estudiantes con un futuro dudoso que quieren ser unos ingenieros fantasticas, gracias a su profesor encargado del cursp y que gracias a su entusiamo podran logras objetivos nunca antes visto. Por ello este gupo de alumnos son los siguientes promesas del futuro. </p>
+<p> Grupo de estudiantes que quieren ser unos ingenieros fantasticas, gracias a su profesor encargado del curso y que gracias a su entusiamo podran lograr objetivos nunca antes visto. Por ello, este gupo de alumnos son los siguientes promesas del futuro. </p>
 
 //FOTO GRUPAL//
 
